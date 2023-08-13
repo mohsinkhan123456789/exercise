@@ -1,1 +1,11 @@
+//your own Array: think of your favorite made of tranportation, such as motorcycle or a car
+// and make a list that stores serveral examples . Use your own list to print a series of 
+// statements about these items , such as , I would to own a honda motorcycle*/
 
+
+let favoriteTransportation:Array<[transporte:string, brand:string]>=[]
+
+favoriteTranspotation.push([" motorcycle", "honda"])
+favoriteTransportation.push{["Car", "Toyota"]}
+favoriteTransportation.push({"Bicycle" , "Sohrab"})
+console.log(favoriteTransportation)
