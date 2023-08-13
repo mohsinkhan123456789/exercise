@@ -1,0 +1,5 @@
+let personName: string ="Tahir khan"
+// show it in uppercase:
+let uppercaseName:string = personName.toUpperCase();
+console.log(uppercaseName);
+
